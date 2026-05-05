@@ -1,6 +1,6 @@
 # DSA Solutions in Python — Arrays, Strings & Recursion
 
-A complete reference of commonly asked DSA questions for service-based company interviews (TCS, Infosys, Wipro, Cognizant, Capgemini, Accenture, HCL, etc.) with Python solutions and examples.
+A complete reference of commonly asked DSA questions with Python solutions and examples.
 
 ---
 
@@ -1603,7 +1603,7 @@ print(flatten(nested))
 
 ---
 
-# Tips for Service-Based Company Interviews
+# Tips for Interviews
 
 1. **Explain your approach first** before coding — interviewers value clear thinking.
 2. **Always state time and space complexity** after solving.
